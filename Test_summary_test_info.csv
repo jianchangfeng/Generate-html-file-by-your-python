@@ -1,14 +1,14 @@
 Test summary
 Platform,Tree,Pass Rate,Total,Pass,Fail,Env Fail,Details
-ls1012a,Accept,58.89%,90,53,37,0,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls1012a_pure_tree_2018-10-08_16-07-38.html
-ls1021a,Accept,51.72%,87,45,42,0,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls1021a_pure_tree_2018-10-08_20-22-44.html
-ls1043a,Accept,80.62%,129,104,25,0,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls1043a_pure_tree_2018-10-09_01-20-27.html
-ls1046a,Accept,83.70%,135,113,22,0,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls1046a_pure_tree_2018-10-09_03-49-10.html
-ls1088a,Accept,65.75%,146,96,50,0,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls1088a_pure_tree_2018-10-09_00-41-17.html
-ls2088a,Accept,52.50%,160,84,60,16,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls2088a_pure_tree_2018-10-08_22-27-28.html
-ls1012a,Submitted,57.78%,90,52,38,0,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls1012a_stag_upstream_2018-09-26_23-43-00.html
-ls1021a,Submitted,54.02%,87,47,40,0,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls1021a_stag_upstream_2018-09-26_21-07-32.html
-ls1043a,Submitted,79.84%,124,99,25,0,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls1043a_stag_upstream_2018-09-27_04-41-07.html
-ls1046a,Submitted,71.21%,132,94,38,0,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls1046a_stag_upstream_2018-09-27_06-15-45.html
-ls1088a,Submitted,86.30%,146,126,20,0,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls1088a_stag_upstream_2018-09-27_07-24-57.html
-ls2088a,Submitted,88.75%,160,142,18,0,http://sun.ap.freescale.net//lars_logs/nxf34947/upstream_report/Report_upstream_ls2088a_stag_upstream_2018-09-27_05-50-12.html
+apple,Accept,58.89%,90,53,37,0,http://test1html
+banana,Accept,51.72%,87,45,42,0,http://test2html
+orl,Accept,80.62%,129,104,25,0,http://tes3html
+table,Accept,83.70%,135,113,22,0,http://test4html
+red,Accept,65.75%,146,96,50,0,http://test5html
+green,Accept,52.50%,160,84,60,16,http://test6html
+apple,Submitted,57.78%,90,52,38,0,http://test7html
+banana,Submitted,54.02%,87,47,40,0,http://test8html
+orl,Submitted,79.84%,124,99,25,0,http://test9html
+table,Submitted,71.21%,132,94,38,0,http://test10html
+red,Submitted,86.30%,146,126,20,0,http://test11html
+green,Submitted,88.75%,160,142,18,0,http://test12html
